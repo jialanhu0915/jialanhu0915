@@ -2,9 +2,7 @@
   <a href="./README_zh-CN.md">🇨🇳 简体中文</a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello,+World!+👋;+jialanhu" alt="Typing SVG" />
-</p>
+<h1 align="center">👋 Hello, World! I'm jialanhu</h1>
 
 <h3 align="center">🔭 Intelligence Science & Technology Student | Passionate about Programming | Continuous Learner</h3>
 

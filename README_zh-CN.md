@@ -2,9 +2,7 @@
   <a href="./README.md">🇺🇸 English</a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello,+World!+👋;+jialanhu" alt="Typing SVG" />
-</p>
+<h1 align="center">👋 你好，我是 jialanhu</h1>
 
 <h3 align="center">🔭 智能科学与技术专业学生 | 热爱编程 | 持续学习中</h3>
 
