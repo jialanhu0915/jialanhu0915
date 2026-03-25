@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - main
+      - feat/snake-animation
   workflow_dispatch:
 
 jobs:
