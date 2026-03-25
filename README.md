@@ -27,6 +27,14 @@
 
 ---
 
+### 🐍 Snake Animation
+
+<p align="center">
+  <img src="assets/github-snake.svg" alt="Snake" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">

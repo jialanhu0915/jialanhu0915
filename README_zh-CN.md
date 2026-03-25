@@ -27,6 +27,14 @@
 
 ---
 
+### 🐍 蛇形动画
+
+<p align="center">
+  <img src="assets/github-snake.svg" alt="Snake" />
+</p>
+
+---
+
 ### 📊 GitHub 统计
 
 <p align="center">
