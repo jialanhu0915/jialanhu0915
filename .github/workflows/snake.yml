@@ -23,6 +23,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
