@@ -40,8 +40,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=jialanhu0915&show_icons=true&theme=dark&locale=en" alt="jialanhu0915" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jialanhu0915&layout=compact&theme=dark&locale=en" alt="Top Langs" />
+  <img height="150px" src="https://jialanhu-github-readme-stats.vercel.app/api?username=jialanhu0915&show_icons=true&theme=dark&locale=en" alt="jialanhu0915" />
+  <img height="150px" src="https://jialanhu-github-readme-stats.vercel.app/api/top-langs/?username=jialanhu0915&layout=compact&theme=dark&locale=en" alt="Top Langs" />
 </p>
 
 ---
