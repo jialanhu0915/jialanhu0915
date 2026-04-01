@@ -40,8 +40,8 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=jialanhu0915&show_icons=true&theme=dark&locale=cn" alt="jialanhu0915" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jialanhu0915&layout=compact&theme=dark&locale=cn" alt="Top Langs" />
+  <img height="150px" src="https://jialanhu-github-readme-stats.vercel.app/api?username=jialanhu0915&show_icons=true&theme=dark&locale=cn" alt="jialanhu0915" />
+  <img height="150px" src="https://jialanhu-github-readme-stats.vercel.app/api/top-langs/?username=jialanhu0915&layout=compact&theme=dark&locale=cn" alt="Top Langs" />
 </p>
 
 ---
